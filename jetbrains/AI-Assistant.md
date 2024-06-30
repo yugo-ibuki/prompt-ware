@@ -12,3 +12,6 @@ Add the space after ':'.
 Avoid overly verbose descriptions or unnecessary details.
 Start with a short sentence in imperative form, no more than 50 characters long.
 At the first, add Emoji corresponding to the type of [feat: 🎉, chore: 🧹, fix: ⚒️, docs: 📝, build: ♻️].
+
+## translated into japanese
+the line should be written in Japanese.
