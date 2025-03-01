@@ -49,3 +49,6 @@ https://zenn.dev/nagisora/articles/ea823063a0e9c3#pontus-abrahamsson
 
 mizchiさんのailab
 https://github.com/mizchi/ailab
+
+project rulesについて
+https://zenn.dev/globis/articles/cursor-project-rules
