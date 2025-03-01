@@ -44,4 +44,8 @@ cat ~/.gitignore_global
 
 ## cursorrulesを拡張するためのメモ
 
+cursorのruleを書くための資料
 https://zenn.dev/nagisora/articles/ea823063a0e9c3#pontus-abrahamsson
+
+mizchiさんのailab
+https://github.com/mizchi/ailab
