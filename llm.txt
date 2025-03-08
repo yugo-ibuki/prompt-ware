@@ -2,3 +2,7 @@
 
 https://modelcontextprotocol.io/llms-full.txt
 
+## MCP
+
+https://www.veyrax.com/mcp
+
